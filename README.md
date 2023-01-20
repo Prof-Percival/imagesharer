@@ -1,10 +1,13 @@
-# Django 101 Course
+# Movie Sharer Project
+
+<img src="./media/project/imagesharer-home.png"/ style="width:100%; heigh:auto;">
+
 
 ## Downloading this repo
 
 #### With git:
 ```
-git clone https://github.com/Prof-Percival/django-101.git
+git clone https://github.com/Prof-Percival/moviesharer.git
 ```
 
 #### Download the .zip
