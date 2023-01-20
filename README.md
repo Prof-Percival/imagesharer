@@ -1,4 +1,4 @@
-# Movie Sharer Project
+# Image Sharer Project
 
 <img src="./media/project/imagesharer-home.png" />
 
@@ -7,16 +7,16 @@
 
 #### With git:
 ```
-git clone https://github.com/Prof-Percival/moviesharer.git
+git clone https://github.com/Prof-Percival/imagesharer.git
 ```
 
 #### Download the .zip
-Download [this file](https://github.com/Prof-Percival/moviesharer/archive/main.zip) and extract it.
+Download [this file](https://github.com/Prof-Percival/imagesharer/archive/main.zip) and extract it.
 
 ## Installation
 
 ```
-cd moviesharer
+cd imagesharer
 pipenv shell
 pip install -r requirements.txt
 python manage.py migrate
