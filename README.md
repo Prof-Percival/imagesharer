@@ -1,6 +1,6 @@
 # Movie Sharer Project
 
-<img src="./media/project/imagesharer-home.png"/ style="width:100%; heigh:auto;">
+<img src="./media/project/imagesharer-home.png" />
 
 
 ## Downloading this repo
